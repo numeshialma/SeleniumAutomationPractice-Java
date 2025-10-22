@@ -336,6 +336,7 @@ public class GuiFormPage extends TestBase {
 
     // Verify selected country
     public String getSelectedCountry() {
+        scrollToElement(countryDropdown);
         Select countrySelect = new Select(countryDropdown);
         return countrySelect.getFirstSelectedOption().getText();
     }

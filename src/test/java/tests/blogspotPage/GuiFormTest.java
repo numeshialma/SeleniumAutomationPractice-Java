@@ -186,8 +186,23 @@ public class GuiFormTest extends TestBase {
         Assert.assertFalse(selectedDays.contains("wednesday"), "Wednesday should be deselected.");
     }
 
+    @Test(priority = 21, description = "Verify country selection by text")
+    public void testCountrySelection(){
+        guiFormPage.selectCountry("Canada");
+        Assert.assertEquals("Canada",guiFormPage.getSelectedCountry(),"Selected country should be Canada.");
+    }
 
+    @Test(priority = 22, description = "Verify country selection by index")
+    public void testCountrySelectionByIndex(){
+        guiFormPage.selectCountryByIndex(4); // Select country at index 5
+        Assert.assertEquals("France",guiFormPage.getSelectedCountry(),"Selected country should be France.");
+    }
 
+    @Test(priority = 23, description = "Verify country selection by value")
+    public void testCountrySelectionByValue(){
+        guiFormPage.selectCountryByValue("germany");
+        Assert.assertEquals("Germany",guiFormPage.getSelectedCountry(),"Selected country should be Germany.");
+    }
 
     @AfterMethod
     public void resetForm(){
