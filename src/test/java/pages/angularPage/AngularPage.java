@@ -69,7 +69,8 @@ public class AngularPage extends TestBase {
     }
 
     public void enterEmail(String email){
-        emailInput.clear(); emailInput.sendKeys(email);
+        emailInput.clear();
+        emailInput.sendKeys(email);
     }
 
     public void enterPassword(String password){

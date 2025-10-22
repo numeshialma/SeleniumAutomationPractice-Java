@@ -3,8 +3,36 @@
   "WorkspaceRootPath": "H:\\2025 Septemer Interviews\\GithubProjects-Oct2025\\SeleniumAutomationProject\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{64602329-A5E4-4B92-86BB-7E8194CE49B0}|SeleniumAutomationProject\\SeleniumAutomationProject.csproj|h:\\2025 septemer interviews\\githubprojects-oct2025\\seleniumautomationproject\\seleniumautomationproject\\pages\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64602329-A5E4-4B92-86BB-7E8194CE49B0}|SeleniumAutomationProject\\SeleniumAutomationProject.csproj|solutionrelative:seleniumautomationproject\\pages\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64602329-A5E4-4B92-86BB-7E8194CE49B0}|SeleniumAutomationProject\\SeleniumAutomationProject.csproj|h:\\2025 septemer interviews\\githubprojects-oct2025\\seleniumautomationproject\\seleniumautomationproject\\tests\\homepagetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64602329-A5E4-4B92-86BB-7E8194CE49B0}|SeleniumAutomationProject\\SeleniumAutomationProject.csproj|solutionrelative:seleniumautomationproject\\tests\\homepagetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64602329-A5E4-4B92-86BB-7E8194CE49B0}|SeleniumAutomationProject\\SeleniumAutomationProject.csproj|h:\\2025 septemer interviews\\githubprojects-oct2025\\seleniumautomationproject\\seleniumautomationproject\\tests\\basetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64602329-A5E4-4B92-86BB-7E8194CE49B0}|SeleniumAutomationProject\\SeleniumAutomationProject.csproj|solutionrelative:seleniumautomationproject\\tests\\basetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{64602329-A5E4-4B92-86BB-7E8194CE49B0}|SeleniumAutomationProject\\SeleniumAutomationProject.csproj|h:\\2025 septemer interviews\\githubprojects-oct2025\\seleniumautomationproject\\seleniumautomationproject\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{64602329-A5E4-4B92-86BB-7E8194CE49B0}|SeleniumAutomationProject\\SeleniumAutomationProject.csproj|solutionrelative:seleniumautomationproject\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64602329-A5E4-4B92-86BB-7E8194CE49B0}|SeleniumAutomationProject\\SeleniumAutomationProject.csproj|h:\\2025 septemer interviews\\githubprojects-oct2025\\seleniumautomationproject\\seleniumautomationproject\\testdata\\testusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64602329-A5E4-4B92-86BB-7E8194CE49B0}|SeleniumAutomationProject\\SeleniumAutomationProject.csproj|solutionrelative:seleniumautomationproject\\testdata\\testusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64602329-A5E4-4B92-86BB-7E8194CE49B0}|SeleniumAutomationProject\\SeleniumAutomationProject.csproj|h:\\2025 septemer interviews\\githubprojects-oct2025\\seleniumautomationproject\\seleniumautomationproject\\seleniumautomationproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{64602329-A5E4-4B92-86BB-7E8194CE49B0}|SeleniumAutomationProject\\SeleniumAutomationProject.csproj|solutionrelative:seleniumautomationproject\\seleniumautomationproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64602329-A5E4-4B92-86BB-7E8194CE49B0}|SeleniumAutomationProject\\SeleniumAutomationProject.csproj|h:\\2025 septemer interviews\\githubprojects-oct2025\\seleniumautomationproject\\seleniumautomationproject\\drivers\\driversetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64602329-A5E4-4B92-86BB-7E8194CE49B0}|SeleniumAutomationProject\\SeleniumAutomationProject.csproj|solutionrelative:seleniumautomationproject\\drivers\\driversetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64602329-A5E4-4B92-86BB-7E8194CE49B0}|SeleniumAutomationProject\\SeleniumAutomationProject.csproj|h:\\2025 septemer interviews\\githubprojects-oct2025\\seleniumautomationproject\\seleniumautomationproject\\utilities\\webdriverfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64602329-A5E4-4B92-86BB-7E8194CE49B0}|SeleniumAutomationProject\\SeleniumAutomationProject.csproj|solutionrelative:seleniumautomationproject\\utilities\\webdriverfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +42,112 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WebDriverFactory.cs",
+              "DocumentMoniker": "H:\\2025 Septemer Interviews\\GithubProjects-Oct2025\\SeleniumAutomationProject\\SeleniumAutomationProject\\Utilities\\WebDriverFactory.cs",
+              "RelativeDocumentMoniker": "SeleniumAutomationProject\\Utilities\\WebDriverFactory.cs",
+              "ToolTip": "H:\\2025 Septemer Interviews\\GithubProjects-Oct2025\\SeleniumAutomationProject\\SeleniumAutomationProject\\Utilities\\WebDriverFactory.cs",
+              "RelativeToolTip": "SeleniumAutomationProject\\Utilities\\WebDriverFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T23:33:05.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TestUsers.cs",
+              "DocumentMoniker": "H:\\2025 Septemer Interviews\\GithubProjects-Oct2025\\SeleniumAutomationProject\\SeleniumAutomationProject\\TestData\\TestUsers.cs",
+              "RelativeDocumentMoniker": "SeleniumAutomationProject\\TestData\\TestUsers.cs",
+              "ToolTip": "H:\\2025 Septemer Interviews\\GithubProjects-Oct2025\\SeleniumAutomationProject\\SeleniumAutomationProject\\TestData\\TestUsers.cs",
+              "RelativeToolTip": "SeleniumAutomationProject\\TestData\\TestUsers.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T23:32:39.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomePageTest.cs",
+              "DocumentMoniker": "H:\\2025 Septemer Interviews\\GithubProjects-Oct2025\\SeleniumAutomationProject\\SeleniumAutomationProject\\Tests\\HomePageTest.cs",
+              "RelativeDocumentMoniker": "SeleniumAutomationProject\\Tests\\HomePageTest.cs",
+              "ToolTip": "H:\\2025 Septemer Interviews\\GithubProjects-Oct2025\\SeleniumAutomationProject\\SeleniumAutomationProject\\Tests\\HomePageTest.cs",
+              "RelativeToolTip": "SeleniumAutomationProject\\Tests\\HomePageTest.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwA8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T23:32:12.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BaseTest.cs",
+              "DocumentMoniker": "H:\\2025 Septemer Interviews\\GithubProjects-Oct2025\\SeleniumAutomationProject\\SeleniumAutomationProject\\Tests\\BaseTest.cs",
+              "RelativeDocumentMoniker": "SeleniumAutomationProject\\Tests\\BaseTest.cs",
+              "ToolTip": "H:\\2025 Septemer Interviews\\GithubProjects-Oct2025\\SeleniumAutomationProject\\SeleniumAutomationProject\\Tests\\BaseTest.cs",
+              "RelativeToolTip": "SeleniumAutomationProject\\Tests\\BaseTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T23:31:53.061Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "HomePage.cs",
+              "DocumentMoniker": "H:\\2025 Septemer Interviews\\GithubProjects-Oct2025\\SeleniumAutomationProject\\SeleniumAutomationProject\\Pages\\HomePage.cs",
+              "RelativeDocumentMoniker": "SeleniumAutomationProject\\Pages\\HomePage.cs",
+              "ToolTip": "H:\\2025 Septemer Interviews\\GithubProjects-Oct2025\\SeleniumAutomationProject\\SeleniumAutomationProject\\Pages\\HomePage.cs",
+              "RelativeToolTip": "SeleniumAutomationProject\\Pages\\HomePage.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAswHwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T23:31:24.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DriverSetup.cs",
+              "DocumentMoniker": "H:\\2025 Septemer Interviews\\GithubProjects-Oct2025\\SeleniumAutomationProject\\SeleniumAutomationProject\\Drivers\\DriverSetup.cs",
+              "RelativeDocumentMoniker": "SeleniumAutomationProject\\Drivers\\DriverSetup.cs",
+              "ToolTip": "H:\\2025 Septemer Interviews\\GithubProjects-Oct2025\\SeleniumAutomationProject\\SeleniumAutomationProject\\Drivers\\DriverSetup.cs",
+              "RelativeToolTip": "SeleniumAutomationProject\\Drivers\\DriverSetup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T11:02:33.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SeleniumAutomationProject.csproj",
+              "DocumentMoniker": "H:\\2025 Septemer Interviews\\GithubProjects-Oct2025\\SeleniumAutomationProject\\SeleniumAutomationProject\\SeleniumAutomationProject.csproj",
+              "RelativeDocumentMoniker": "SeleniumAutomationProject\\SeleniumAutomationProject.csproj",
+              "ToolTip": "H:\\2025 Septemer Interviews\\GithubProjects-Oct2025\\SeleniumAutomationProject\\SeleniumAutomationProject\\SeleniumAutomationProject.csproj",
+              "RelativeToolTip": "SeleniumAutomationProject\\SeleniumAutomationProject.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-19T01:54:12.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "UnitTest1.cs",
               "DocumentMoniker": "H:\\2025 Septemer Interviews\\GithubProjects-Oct2025\\SeleniumAutomationProject\\SeleniumAutomationProject\\UnitTest1.cs",
               "RelativeDocumentMoniker": "SeleniumAutomationProject\\UnitTest1.cs",
               "ToolTip": "H:\\2025 Septemer Interviews\\GithubProjects-Oct2025\\SeleniumAutomationProject\\SeleniumAutomationProject\\UnitTest1.cs",
               "RelativeToolTip": "SeleniumAutomationProject\\UnitTest1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAgwCQAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-19T01:53:51.428Z",
               "EditorCaption": ""
