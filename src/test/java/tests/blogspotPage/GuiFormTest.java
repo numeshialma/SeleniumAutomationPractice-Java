@@ -10,6 +10,8 @@ import utils.TestBase;
 
 import java.util.List;
 
+// 1
+
 public class GuiFormTest extends TestBase {
 
     private GuiFormPage guiFormPage;
@@ -29,7 +31,6 @@ public class GuiFormTest extends TestBase {
         }
     }
 
-    //
     @Test(priority = 1, description = "Verify Name field accepts input")
     public void testNameFieldInput() {
         guiFormPage.enterName("John Doe");
