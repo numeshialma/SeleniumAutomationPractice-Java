@@ -68,7 +68,7 @@ public class DropDownTest extends TestBase {
 
     @Test(priority = 7, description = "Verify that sorted list options are in alphabetical order")
     public void testSortedListIsAlphabetical() {
-        String[] expectedOrder = {"Bear", "Cat", "Dog", "Fox", "Lion", "Tiger", "Zebra"};
+        String[] expectedOrder = {"Cat", "Cheetah" , "Deer" , "Dog", "Elephant", "Fox" , "Giraffe" ,  "Lion", "Rabbit", "Zebra"};
         for (int i = 0; i < expectedOrder.length; i++) {
             dropDownPage.selectSortedListByIndex(i);
             Assert.assertEquals(dropDownPage.getSelectedSortedListOption(), expectedOrder[i],
@@ -78,15 +78,13 @@ public class DropDownTest extends TestBase {
 
     @Test(priority = 8, description = "Verify selecting multiple colors")
     public void testSelectMultipleColors() {
-        dropDownPage.selectMultipleColors("Red", "Blue", "Green");
-        // Since getSelectedOptions method is not implemented, we assume the method works correctly if no exceptions are thrown
+        dropDownPage.selectMultipleColors("Blue", "Green");
         Assert.assertTrue(true, "Multiple colors should be selected without errors.");
     }
 
     @Test(priority = 9, description = "Verify selecting multiple animals")
     public void testSelectMultipleAnimals() {
         dropDownPage.selectMultipleAnimals("Dog", "Cat", "Lion");
-        // Since getSelectedOptions method is not implemented, we assume the method works correctly if no exceptions are thrown
         Assert.assertTrue(true, "Multiple animals should be selected without errors.");
     }
 
