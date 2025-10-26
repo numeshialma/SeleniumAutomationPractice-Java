@@ -4,6 +4,7 @@ import org.openqa.selenium.By;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
+import pages.blogspotPage.DatePicker1Page;
 import utils.TestBase;
 
 public class DatePicker1Test extends TestBase {
@@ -60,5 +61,19 @@ public class DatePicker1Test extends TestBase {
             }
         }
     }
+
+    // From DatePicker1Page
+    @Test
+    public void selectFutureDate(){
+        DatePicker1Page datePicker1Page = new DatePicker1Page(driver);
+        datePicker1Page.selectDate("December", "2027", "25", true);
+    }
+
+    @Test
+    public void selectPastDate(){
+        DatePicker1Page datePicker1Page = new DatePicker1Page(driver);
+        datePicker1Page.selectDate("December", "2024","6" , false);
+    }
+
 
 }
