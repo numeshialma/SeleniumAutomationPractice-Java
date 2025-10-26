@@ -28,7 +28,7 @@ public class DatePickerTest extends TestBase {
         }
     }
 
-    @Test(priority = 1, description = "Verify date picker 1 functionality")
+    @Test(priority = 1, description = "Verify date picker 1 functionality - Using sendKeys")
     public void testDatePicker1Functionality() {
         datePickerPage.enterDatePicker1("10/15/2024");
         Assert.assertEquals(datePickerPage.getDatePicker1Value(), "10/15/2024", "Date Picker 1 should accept the input date.");
