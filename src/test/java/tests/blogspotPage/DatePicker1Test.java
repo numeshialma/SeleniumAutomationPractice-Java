@@ -15,13 +15,6 @@ public class DatePicker1Test extends TestBase {
         driver.manage().window().maximize();
     }
 
-    @AfterClass
-    public void tearDown(){
-        if(driver!=null){
-            driver.close();
-        }
-    }
-
     @Test
     public void dummyTest() {
        String year = "2027";

@@ -3,26 +3,28 @@ package tests.blogspotPage;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
-import pages.blogspotPage.DatePicker2Page;
+import pages.blogspotPage.DatePicker3Page;
 import utils.TestBase;
 
-public class DatePicker2Test extends TestBase {
+public class DatePicker3Test extends TestBase {
+
+    private DatePicker3Page datePicker3Page;
 
     @BeforeClass
     public void setUp() {
         driver.get("https://testautomationpractice.blogspot.com/");
         driver.manage().window().maximize();
+
+        datePicker3Page = new DatePicker3Page(driver);
     }
 
     @Test
     public void dummyTest() {
-        DatePicker2Page datePicker2Page = new DatePicker2Page(driver);
-        String year = "2027";
-        String month = "Dec";
-        String day = "25";
-        datePicker2Page.openDatePicker2();
-        datePicker2Page.selectDate(month, year, day);
-
+        datePicker3Page.enterDateRange("10/25/2025", "10/30/2025");
     }
 
+    @Test
+    public void dummyTest2() {
+        datePicker3Page.setDateRange("12/01/2024", "12/15/2024");
+    }
 }

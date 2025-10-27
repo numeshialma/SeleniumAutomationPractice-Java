@@ -21,13 +21,6 @@ public class DatePickerTest extends TestBase {
         datePickerPage = new DatePickerPage(driver);
     }
 
-    @AfterClass
-    public void tearDown(){
-        if(driver!=null){
-            driver.close();
-        }
-    }
-
     @Test(priority = 1, description = "Verify date picker 1 functionality - Using sendKeys")
     public void testDatePicker1Functionality() {
         datePickerPage.enterDatePicker1("10/15/2024");

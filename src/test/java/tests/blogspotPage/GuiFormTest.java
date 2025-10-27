@@ -24,13 +24,6 @@ public class GuiFormTest extends TestBase {
         guiFormPage = new GuiFormPage(driver);
     }
 
-    @AfterClass
-    public void tearDown(){
-        if(driver!=null){
-            driver.close();
-        }
-    }
-
     @Test(priority = 1, description = "Verify Name field accepts input")
     public void testNameFieldInput() {
         guiFormPage.enterName("John Doe");

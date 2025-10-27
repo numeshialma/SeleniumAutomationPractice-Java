@@ -23,13 +23,6 @@ public class DropDownTest extends TestBase {
         dropDownPage = new DropDownPage(driver);
     }
 
-    @AfterClass
-    public void tearDown(){
-        if(driver!=null){
-            driver.close();
-        }
-    }
-
     @Test(priority = 1, description = "Verify selecting color by visible text")
     public void testSelectColorByVisibleText() {
         dropDownPage.selectColorByVisibleText("Red");
